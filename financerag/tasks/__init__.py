@@ -6,3 +6,4 @@ from .FinanceBenchTask import FinanceBench
 from .MultiHierttTask import MultiHiertt
 from .TATQATask import TATQA
 from .TaskMetadata import TaskMetadata
+from .FinQATask import FinQA
